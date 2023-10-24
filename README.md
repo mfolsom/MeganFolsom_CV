@@ -1,8 +1,8 @@
 # Megan Folsom
 
-Technical artist and coder with expertise in procedural content creation, real-time physically-based rendering, and advanced materials. Proven cross-functional collaborator adept in product management, design sprints, and rapid prototyping. Solid skills in Python, Ruby, and Javascript, with proficiency in Unreal Engine Blueprint and some C++ experience. Committed to crafting captivating gaming experiences that engage and entertain players.
+Technical artist and coder with expertise in agile, rapid prototyping, test-driven development, game creation and 3D content technologies including: procedural content creation, real-time physically-based rendering, and advanced materials. Proven cross-functional collaborator adept in product management, design sprints, and rapid prototyping. Solid skills in Python, Ruby, and React, with proficiency in Unreal Engine Blueprint and some C++ experience. 
 
-**Portfolio:** [ArtStation](https://meganfolsom6.artstation.com/)  
+**Game Portfolio:** [ArtStation](https://meganfolsom6.artstation.com/)  
 **Demo Reel:** [YouTube](https://youtu.be/c1WCWJC2VlI)  
 **GitHub:** [GitHub](https://www.github.com/mfolsom)
 
