@@ -9,7 +9,8 @@ Technical artist and coder with expertise in procedural content creation, real-t
 ## Skills Summary
 
 - Python, React, Blueprints, C++, Unreal Engine, Unity
-- ChatGPT API Integration
+- Docker, Test-Driven Development
+- Continuous Integration
 - 3D modeling and sculpting (Maya, Zbrush)
 - Physically Based Rendering (PBR) Unreal Engine, Substance Painter, 3D Coats
 - UV layouts and High to Low poly topology and retopology
@@ -24,6 +25,16 @@ Technical artist and coder with expertise in procedural content creation, real-t
 | **Museum of Arcane Arts** | Fully immersive 3D experience that transports the audience to an ancient mysterious museum. | Maya, Substance Painter, ZBrush, Unreal Engine 5, C++, Python |
 | **Rust Head Redemption** | A mining game prototype set on a planet of robots, living in an old-west replica. | Unreal Engine Blueprints, C++, Gaea, Quixel Megascans |
 | **Butterfly Gods** | Rendering of pulsating, other-worldly butterflies made entirely from advanced shaders. | Unreal Engine 5 |
+
+## BootCamp Projects
+
+| Project Name       | Description                                                                                       | Tech/tools                                |
+|--------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------|
+| **Tic Tac Toe**    | 2-Player Tic Tac Toe game with real-time results                                                  | React, Netlify, Jest, Docker              |
+| **Music Tracker**  | Displays Artists, Albums and Songs from a DB                                                      | Python, Pytest, Flask, PostgreSQL, Docker |
+| **Password Manager** | Simple lightweight password manager that validates passwords from multiple authentication services | Python, Pytest                         |
+
+
 
 ## Work Experience
 
