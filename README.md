@@ -25,13 +25,6 @@ Technical artist and coder with expertise in procedural content creation, real-t
 | **Rust Head Redemption** | A mining game prototype set on a planet of robots, living in an old-west replica. | Unreal Engine Blueprints, C++, Gaea, Quixel Megascans |
 | **Butterfly Gods** | Rendering of pulsating, other-worldly butterflies made entirely from advanced shaders. | Unreal Engine 5 |
 
-## Recent Products
-| Name | Description | Tech/tools |
-| --- | --- | --- |
-| **Fish Welfare Dashboard** | AI-enabled insights to track the welfare of deep-sea salmon. | Python, React, Snowflake |
-| **Voom** | Booking app for helicopter flights and Suite of flight ops tools for managing flights, passengers, routes, and helipads. | Ruby/Rails, React |
-| **Spec** | Mobile app that displays 3D scanned real estate properties and presents them in an immersive VR environment. | Unity, C# |
-
 ## Work Experience
 
 **Ghost Hat Studio, Remote — Freelance**  
