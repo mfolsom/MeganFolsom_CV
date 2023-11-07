@@ -40,7 +40,7 @@ Coder and Technical Artist with expertise in agile, rapid prototyping, test-driv
 
 **Ghost Hat Studio, Remote — Freelance**  
 *January 2023 - Present*  
-- Vertex School Intern - Worked with instructors to develop assets for Game Development Program coursework.
+- Vertex School Intern - Worked with instructors to develop coding and creative assets for unreal authorized training center
 - Independent Projects - Developed immersive experiences to advance knowledge of technical artistry, shading techniques, rendering, coding and 3D Art techniques. Aimed to surprise and delight the audience.
 
 **Aquabyte, Bergen, Norway — Principal Product Manager**  
