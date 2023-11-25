@@ -1,6 +1,6 @@
 # Megan Folsom
 
-Software Developer and Technical Artist with expertise in agile, rapid prototyping, test-driven development, game creation and 3D content technologies.  Proven cross-functional collaborator adept in product management, design sprints, and rapid prototyping. Solid skills in Python, Ruby, and React, with proficiency in Unreal Engine/ Blueprint and some C++ experience. 
+Software Developer with product background and expertise in agile, rapid prototyping, test-driven development. Recent experience creating games in unreal engine and working with 3D content technologies.  Proven cross-functional collaborator adept in product management, design sprints, and rapid prototyping. Solid skills in Python, Ruby, and React, with proficiency in Unreal Engine/ Blueprint and some C++ experience. If I don't know how to do it, I'll figure it out. 
 
 **Game Portfolio:** [ArtStation](https://meganfolsom6.artstation.com/)  
 **Demo Reel:** [YouTube](https://youtu.be/c1WCWJC2VlI)  
