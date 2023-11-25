@@ -56,7 +56,7 @@ Software Developer with product background and expertise in agile, rapid prototy
 
 **United States Digital Response — Product Manager (Volunteer)**  
 *May 2020 - August 2020*  
-- Collaborated with NYC CTO staff on a product strategy for COVID response. Received commendation for unifying emergency response messaging and facilitating access to online health tools.
+- Collaborated with NYC CTO staff on a product strategy for COVID response. Received NYC letter of commendation for API unifying emergency response messaging and facilitating access to online health tools.
 
 **Backstage Social, Nashville, TN — Product Advisor**  
 *February 2021 - August 2021*  
