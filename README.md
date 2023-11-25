@@ -1,6 +1,6 @@
 # Megan Folsom
 
-Coder and Technical Artist with expertise in agile, rapid prototyping, test-driven development, game creation and 3D content technologies including: procedural content creation, real-time physically-based rendering, and advanced materials. Proven cross-functional collaborator adept in product management, design sprints, and rapid prototyping. Solid skills in Python, Ruby, and React, with proficiency in Unreal Engine Blueprint and some C++ experience. 
+Software Developer and Technical Artist with expertise in agile, rapid prototyping, test-driven development, game creation and 3D content technologies.  Proven cross-functional collaborator adept in product management, design sprints, and rapid prototyping. Solid skills in Python, Ruby, and React, with proficiency in Unreal Engine/ Blueprint and some C++ experience. 
 
 **Game Portfolio:** [ArtStation](https://meganfolsom6.artstation.com/)  
 **Demo Reel:** [YouTube](https://youtu.be/c1WCWJC2VlI)  
@@ -24,15 +24,15 @@ Coder and Technical Artist with expertise in agile, rapid prototyping, test-driv
 | --- | --- | --- |
 | **Museum of Arcane Arts** | Fully immersive 3D experience that transports the audience to an ancient mysterious museum. | Maya, Substance Painter, ZBrush, Unreal Engine 5, C++, Python |
 | **Rust Head Redemption** | A mining game prototype set on a planet of robots, living in an old-west replica. | Unreal Engine Blueprints, C++, Gaea, Quixel Megascans |
-| **Butterfly Gods** | Rendering of pulsating, other-worldly butterflies made entirely from advanced shaders. | Unreal Engine 5 |
+| **Butterfly Gods** | Rendering of other-worldly butterflies made entirely from advanced shaders. | Unreal Engine 5 |
 
 ## BootCamp Projects
 
 | Project Name       | Description                                                                                       | Tech/tools                                |
 |--------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------|
-| **Tic Tac Toe**    | 2-Player Tic Tac Toe game with real-time results                                                  | React, Netlify, Jest, Docker              |
+| **Tic Tac Toe**    | 2-Player Tic Tac Toe game with real-time results                                                  | React, Netlify, Jest, Docker, Node.js     |
 | **Music Tracker**  | Displays Artists, Albums and Songs from a DB                                                      | Python, Pytest, Flask, PostgreSQL, Docker |
-| **Password Manager** | Simple lightweight password manager that validates passwords from multiple authentication services | Python, Pytest                         |
+| **Acebook**        | Maker's group project facebook clone with posts, photos, comments, likes and profile managment    | Mongodb, Express, React, Node.js          |
 
 
 
