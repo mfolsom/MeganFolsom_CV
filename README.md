@@ -18,6 +18,15 @@ Software Developer with product background and expertise in agile, rapid prototy
 - Design Sprints, rapid prototyping, inception and ideation
 - Agile and outcome-driven work ethic
 
+## Shipped Apps (not all)
+
+| Name | Description | Tech/tools |
+| --- | --- | --- |
+| **Aquabyte Fish Welfare** | Web and mobile app displaying data insights derived from computer vision AI and undersea edge devices for large Aquaculture companies in Norway. | Product Management, React, Agile, Snowflake, Artificial Intelligence|
+| **Voom for Airbus** | A web and mobile app offering ride-share bookings for helicopters in congested urban cities with full flight operations and B2B capabilities. | Product Management, Agile, Ruby/Rails, React, Mobile |
+| **Spec** | VR real estate app MVP to give large clients a way to show international customers 3D virtual walkthroughs of properties | Product Management, Unity, Virtual Reality |
+| **Shutl** | Mobile and web and API same day delivery as a service integrating with couriers and large ecommerce companies  | Product Management, Mobile, API|
+
 ## Personal Projects
 
 | Name | Description | Tech/tools |
