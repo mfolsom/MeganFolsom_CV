@@ -34,14 +34,11 @@ Software Developer with product background and expertise in agile, rapid prototy
 | **Music Tracker**  | Displays Artists, Albums and Songs from a DB                                                      | Python, Pytest, Flask, PostgreSQL, Docker |
 | **Acebook**        | Maker's group project facebook clone with posts, photos, comments, likes and profile managment    | Mongodb, Express, React, Node.js          |
 
-
-
 ## Work Experience
 
-**Ghost Hat Studio, Remote — Freelance**  
-*January 2023 - Present*  
-- Vertex School Intern - Worked with instructors to develop coding and creative assets for unreal authorized training center
-- Independent Projects - Developed immersive experiences to advance knowledge of technical artistry, shading techniques, rendering, coding and 3D Art techniques. Aimed to surprise and delight the audience.
+**Vertex School, Remote — Contract Internship**  
+*October 2023 - Present*  
+- Technical Instructional Design - Worked with instructors to develop coding and creative assets for unreal authorized training center
 
 **Aquabyte, Bergen, Norway — Principal Product Manager**  
 *August 2021 - January 2023*  
