@@ -71,7 +71,7 @@ Software Developer with product background and expertise in agile, rapid prototy
 *April 2015 - August 2018*  
 - Advised early and seed stage startups on product strategy and market fit.
 
-**eBay Local Delivery, London, United Kingdom, San Francisco, CA — Sr. Product Manager**  
+**eBay Local Delivery(acquired Shutl), London, United Kingdom, San Francisco, CA — Sr. Product Manager**  
 *November 2012 - April 2015*  
 - Managed API platform and consumer apps targeted to small eBay businesses and ecommerce companies looking to plugin a same-day courier service
 
