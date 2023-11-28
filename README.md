@@ -25,9 +25,9 @@ Software Developer with product background and expertise in agile, rapid prototy
 | **Aquabyte Fish Welfare** | Web and mobile app displaying data insights derived from computer vision AI and undersea edge devices for large Aquaculture companies in Norway. | Product Management, React, Agile, Snowflake, Artificial Intelligence|
 | **Voom for Airbus** | A web and mobile app offering ride-share bookings for helicopters in congested urban cities with full flight operations and B2B capabilities. | Product Management, Agile, Ruby/Rails, React, Mobile |
 | **Spec** | VR real estate app MVP to give large clients a way to show international customers 3D virtual walkthroughs of properties | Product Management, Unity, Virtual Reality |
-| **Shutl Merchant API** | API to integrate same-day delivery platform with large ecommerce companies (such as eBay, Whole Foods, Argos) | Product Management, Mobile, API|
-| **Shutl Courier API** | API to integrate independent couriers aggregated into a single same day delivery service  | Product Management, Mobile, API|
-| **Shutl Consumer App** | Mobile and web app to order and manage same-day delivery service for small businesses and individuals  | Product Management, Mobile, API|
+| **eBay/Shutl Merchant API** | API to integrate same-day delivery platform with large ecommerce companies (such as eBay, Whole Foods, Argos) | Product Management, Mobile, API|
+| **eBay/Shutl Courier API** | API to integrate independent couriers aggregated into a single same day delivery service  | Product Management, Mobile, API|
+| **eBay/Shutl Consumer App** | Mobile and web app to order and manage same-day delivery service for small businesses and individuals  | Product Management, Mobile, API|
 
 ## Personal Projects
 
