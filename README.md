@@ -25,7 +25,9 @@ Software Developer with product background and expertise in agile, rapid prototy
 | **Aquabyte Fish Welfare** | Web and mobile app displaying data insights derived from computer vision AI and undersea edge devices for large Aquaculture companies in Norway. | Product Management, React, Agile, Snowflake, Artificial Intelligence|
 | **Voom for Airbus** | A web and mobile app offering ride-share bookings for helicopters in congested urban cities with full flight operations and B2B capabilities. | Product Management, Agile, Ruby/Rails, React, Mobile |
 | **Spec** | VR real estate app MVP to give large clients a way to show international customers 3D virtual walkthroughs of properties | Product Management, Unity, Virtual Reality |
-| **Shutl** | Mobile and web and API same day delivery as a service integrating with couriers and large ecommerce companies  | Product Management, Mobile, API|
+| **Shutl Merchant API** | API to integrate same-day delivery platform with large ecommerce companies (such as eBay, Whole Foods, Argos) | Product Management, Mobile, API|
+| **Shutl Courier API** | API to integrate independent couriers aggregated into a single same day delivery service  | Product Management, Mobile, API|
+| **Shutl Consumer App** | Mobile and web app to order and manage same-day delivery service for small businesses and individuals  | Product Management, Mobile, API|
 
 ## Personal Projects
 
@@ -53,6 +55,10 @@ Software Developer with product background and expertise in agile, rapid prototy
 *August 2021 - January 2023*  
 - Collaborated with biologists, data scientists, and engineers to build a data platform using computer vision and trained models for deep sea monitoring of aquatic life.
 
+**Backstage Social, Nashville, TN — Product Advisor**  
+*February 2021 - August 2021*  
+- Assisted founders to define and launch a SaaS platform managing social media content for a major ticket sales company.
+
 **Airbus (Voom), Seattle, WA — VP of Product and Design**  
 *August 2018 - May 2020*  
 - Managed product roadmap and teams for Airbus Urban Air Mobility initiative focusing on the next generation of mass transit.
@@ -61,19 +67,21 @@ Software Developer with product background and expertise in agile, rapid prototy
 *October 2017 - June 2018*  
 - Led product vision & strategy integrating VR/AR, Deep Learning & Geospatial Technology in the Real Estate sector.
 
-## Entrepreneurial and Other Experience
+**Unruly Robot Ltd, Europe — Founder**  
+*April 2015 - August 2018*  
+- Advised early and seed stage startups on product strategy and market fit.
+
+**eBay Local Delivery, London, United Kingdom, San Francisco, CA — Sr. Product Manager**  
+*November 2012 - April 2015*  
+- Managed API platform and consumer apps targeted to small eBay businesses and ecommerce companies looking to plugin a same-day courier service
+
+## Volunteer
 
 **United States Digital Response — Product Manager (Volunteer)**  
 *May 2020 - August 2020*  
 - Collaborated with NYC CTO staff on a product strategy for COVID response. Received NYC letter of commendation for API unifying emergency response messaging and facilitating access to online health tools.
 
-**Backstage Social, Nashville, TN — Product Advisor**  
-*February 2021 - August 2021*  
-- Assisted founders to define and launch a SaaS platform managing social media content for a major ticket sales company.
 
-**Unruly Robot Ltd, Europe — Founder**  
-*April 2015 - August 2018*  
-- Advised early and seed stage startups on product strategy and market fit.
 
 ## Education
 
