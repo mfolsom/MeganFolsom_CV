@@ -39,17 +39,26 @@ Software Developer with product background and expertise in agile, rapid prototy
 
 ## BootCamp Projects
 
-| Project Name       | Description                                                                                       | Tech/tools                                |
-|--------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------|
-| **Tic Tac Toe**    | 2-Player Tic Tac Toe game with real-time results                                                  | React, Netlify, Jest, Docker, Node.js     |
-| **Music Tracker**  | Displays Artists, Albums and Songs from a DB                                                      | Python, Pytest, Flask, PostgreSQL, Docker |
-| **Acebook**        | Maker's group project facebook clone with posts, photos, comments, likes and profile managment    | Mongodb, Express, React, Node.js          |
+| Project Name       | Description                                                                                       | Tech/tools                                     |
+|--------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------|
+| **Space Rescue**   | Single Player, 3D Game built in React, TypeScript, BabylonJs and Rails                            | React, TypeScript, Jest, BabylonJS, Rails API  |
+| **Tic Tac Toe**    | 2-Player Tic Tac Toe game with real-time results                                                  | React, Netlify, Jest, Docker, Node.js          |
+| **Music Tracker**  | Displays Artists, Albums and Songs from a DB                                                      | Python, Pytest, Flask, PostgreSQL, Docker      |
+| **Acebook**        | Maker's group project facebook clone with posts, photos, comments, likes and profile managment    | Mongodb, Express, React, Node.js               |
 
 ## Work Experience
 
-**Vertex School, Remote — Contract Internship**  
+**Makers Academy,On-site — Jr Full Stack Engineer (in training)**  
 *October 2023 - Present*  
-- Technical Instructional Design - Worked with instructors to develop coding and creative assets for unreal authorized training center
+- Build , test and deploy web-based projects in Python/Flask postgresql and JavaScript/React.
+- Work collaboratively to deploy web-based projects using Agile Methodology.
+- Work with container based technology (Docker).
+- Extensive use of version control(Git, Github).
+- Build, Test and Deploy Capstone Project (space rescue) in React, BabylonJS, Typesscript with a Rails API backend
+  
+**Vertex School, Remote — Contract Internship**  
+*October 2023 - Jan 2024*  
+- Technical Instructional Design - Worked with instructors to develop coding and creative assets for unreal authorized training center. Build and run code examples and instructional assets in Unreal Engine, C++, Python and Blueprints.
 
 **Aquabyte, Bergen, Norway — Principal Product Manager**  
 *August 2021 - January 2023*  
